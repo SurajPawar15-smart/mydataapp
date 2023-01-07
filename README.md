@@ -5,11 +5,11 @@ This is my all inforamtion regarding the project and learn and dev things.
 
 # How to code in GitHub?
 1.`Create a new repository on GitHub.com.` <br>
-2.`Open TerminalTerminalGit Bash.`
-3.`Change the current working directory to your local project.`
-4.`Use the init command to initialize the local directory as a Git repository.`
-5.`Add the files in your new local repository.`
-6.`Commit the files that you've staged in your local repository.`
+2.`Open TerminalTerminalGit Bash.`<br>
+3.`Change the current working directory to your local project.`<br>
+4.`Use the init command to initialize the local directory as a Git repository.`<br>
+5.`Add the files in your new local repository.`<br>
+6.`Commit the files that you've staged in your local repository.`<br>
 
 
 ## What is GitHub used for?
